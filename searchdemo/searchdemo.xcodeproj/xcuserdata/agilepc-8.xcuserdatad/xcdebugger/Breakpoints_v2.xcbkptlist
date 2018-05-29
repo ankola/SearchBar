@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "searchdemo/ViewController.swift"
+            timestampString = "546173845.5966311"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.objtableview.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITableView&gt;"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546158410.673808"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.objtableview.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITableView&gt;"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546158410.677286"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; searchdemo.ViewController"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546158410.681096"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "229">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;searchdemo.ViewController&gt;"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546158410.684158"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "159">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "searchdemo/ViewController.swift"
+            timestampString = "546173845.597298"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.arrdata.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546152471.877527"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.arrdata.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546152471.880666"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; searchdemo.ViewController"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546152471.88392"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "314">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;searchdemo.ViewController&gt;"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546152471.887037"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "searchdemo/ViewController.swift"
+            timestampString = "546173845.597971"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.filteredData.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546152471.897113"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.filteredData.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546152471.90118"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; searchdemo.ViewController"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546152471.904794"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "1006">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;searchdemo.ViewController&gt;"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546152471.90793"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "925">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "searchdemo/ViewController.swift"
+            timestampString = "546173845.598601"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.searchcontroller.getter : __ObjC.UISearchController"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546152471.9178261"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.searchcontroller.setter : __ObjC.UISearchController"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546152471.920807"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; searchdemo.ViewController"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546152471.924014"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "1203">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;searchdemo.ViewController&gt;"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546152471.927263"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "1122">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "searchdemo/ViewController.swift"
+            timestampString = "546173845.599231"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "searchdemo/ViewController.swift"
+            timestampString = "546173845.599695"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "searchdemo/ViewController.swift"
+            timestampString = "546173845.600154"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "searchdemo/ViewController.swift"
+            timestampString = "546173845.60072"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "searchdemo/ViewController.swift"
+            timestampString = "546173845.6012321"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "searchdemo/ViewController.swift"
+            timestampString = "546173845.601755"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "searchdemo/ViewController.swift"
+            timestampString = "546173845.602219"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "searchdemo/ViewController.swift"
+            timestampString = "546173845.602728"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "filterContentForSearc(searchString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "searchdemo/ViewController.swift"
+            timestampString = "546173845.60333"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "searchdemo/ViewController.swift"
+            timestampString = "546173845.603786"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.arrdata.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546152382.1025341"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.arrdata.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546152382.106002"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; searchdemo.ViewController"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546152382.109308"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "314">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "searchdemo.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;searchdemo.ViewController&gt;"
+                  moduleName = "searchdemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agilepc-8/Documents/@@@/@@@/searchdemo/searchdemo/ViewController.swift"
+                  timestampString = "546152382.112332"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
